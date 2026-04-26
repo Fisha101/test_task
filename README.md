@@ -40,5 +40,3 @@ Example input files are provided in the `test_data/` folder:
 - `test.fastq`
 - `test_small.bam`
   
-**Module:** `pandas`  
-**Solution:** [task3_bed_merge.py](task3_bed_merge.py)
