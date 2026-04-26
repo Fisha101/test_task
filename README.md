@@ -33,5 +33,11 @@ Write a Python function that:
 2. Merges intervals that overlap or are directly adjacent without a gap.
 3. Writes the resulting intervals to a BED file.
 
+## Test Data
+
+Example input files are provided in the `test_data/` folder:
+- `test.bed`
+- `test.fastq`
+- `test_small.bam`
 **Module:** `pandas`  
 **Solution:** [task3_bed_merge.py](task3_bed_merge.py)
